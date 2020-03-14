@@ -1,6 +1,6 @@
 # Goodreads-clone-API
 
-Django REST Framework을 사용한 Good Reads clone API
+Node js를 사용한 Good Reads clone API
 
 기능
 
